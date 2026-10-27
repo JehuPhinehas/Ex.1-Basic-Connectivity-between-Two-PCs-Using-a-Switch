@@ -1,6 +1,6 @@
 ## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
 # Date : 		25.10.2026
-
+# NAME : JEHU PHINEHAS J 212224060109
 # Objective
 
           “To configure and test basic LAN connectivity between two PCs using a switch.”
