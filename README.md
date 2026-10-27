@@ -12,7 +12,8 @@ ________________________________________
 ________________________________________
 # Network Topology Diagram
 
-<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/da6705da-e9f0-4f47-8a66-3788c68bf787" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/c5293af8-b198-42a9-82ff-c1b196373b97" />
+
 
 
 ________________________________________
@@ -42,16 +43,20 @@ ________________________________________
 # Output (Screenshots / Ping Results)
 -PC0 configuration image:
 
-<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/1e694c4d-ed8e-448f-8106-be898308736c" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/03e831c6-4b92-4d62-bd1e-d4ac569fedc1" />
+
 
 
 -Switch configuration image:
 
-<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/868cf069-9e90-4ce9-976f-f82bd3042078" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/aba1f708-f7f0-4f0c-be5e-337a0b7ba38c" />
+
 
 -ping successfull image:
 
-<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/2c9fe270-6b5b-4839-924f-19960ab00e66" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/c7692439-0e33-48c7-bde5-cba440d7005c" />
+
+
 
 
 Insert screenshots showing ping success, configuration, or simulation results.
