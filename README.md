@@ -14,8 +14,6 @@ ________________________________________
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/38158792-376e-4a8c-bea9-992912908b82" />
 
 
-Insert the network topology from Packet Tracer (Screenshot or drawing)
-
 ________________________________________
 # IP Addressing Table (if applicable)
 Device Name	Interface	IP Address	Subnet Mask
