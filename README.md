@@ -11,6 +11,8 @@ ________________________________________
 •	Optional: Wireless Router, Server, Cloud
 ________________________________________
 # Network Topology Diagram
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/38158792-376e-4a8c-bea9-992912908b82" />
+
 
 Insert the network topology from Packet Tracer (Screenshot or drawing)
 
